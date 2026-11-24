@@ -1,3 +1,4 @@
+package W07;
 import java.util.Scanner;
 
 public class W07L05 {
